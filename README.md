@@ -1,4 +1,4 @@
-# Hello-word
+# Практика
 Мой первый репозиторий
 #include <iostream>
 #include <vector>
